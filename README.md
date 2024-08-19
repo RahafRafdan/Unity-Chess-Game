@@ -2,7 +2,7 @@
 
 Welcome to the Chess Game repository! This project showcases a fully functional chess game developed using Unity. It includes all standard chess pieces with their unique movements and interactions, powered by 31 C# scripts.
 
-![Unity-Chess-Game Screenshot](Images/Unity Chess Game photo.jpg)
+![Images/Unity Chess Game photo.jpg](https://github.com/RahafRafdan/Unity-Chess-Game/blob/main/Images/Unity%20Chess%20Game%20photo.jpg)
 
 # 🎯 Features
 

@@ -21,7 +21,7 @@ Welcome to the Chess Game repository! This project showcases a fully functional 
  3. Start Playing:
  • Hit the “Play” button in Unity and dive into the game!
 
-# 🎮 Usage
+# 🕵️ Usage
 
  • Move Pieces: Select a piece to highlight possible moves. Click on a square to move the piece to the selected location.
 
